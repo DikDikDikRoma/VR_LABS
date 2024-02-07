@@ -72,3 +72,15 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+VR_LABS/Library/ShaderCache/shader/SteamVR_ColorOut04d0/00/79391d7ff2c71ac5557656d3d5fc91be.bin
+VR_LABS/
+VR_Lab2/Library/
+VR_Lab2/Logs/
+*.cache
+VR_Lab2/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+VR_Lab2/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+VR_Lab2/obj/
+VR_Lab2/Packages/
+VR_Lab2/ProjectSettings/
+VR_Lab2/Temp/
+VR_Lab2/unityProject.vrmanifest
