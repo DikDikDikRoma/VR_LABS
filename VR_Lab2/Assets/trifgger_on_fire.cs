@@ -19,7 +19,7 @@ public class trifgger_on_fire : MonoBehaviour
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Enemy")
+        if (other.tag == "Fire")
         {
             fire.Play();
         }
@@ -27,7 +27,7 @@ public class trifgger_on_fire : MonoBehaviour
 
     void OnTriggerExit(Collider other)
     {
-        if (other.tag == "Enemy")
+        if (other.tag == "Fire")
         {
             fire.Stop();
         }
